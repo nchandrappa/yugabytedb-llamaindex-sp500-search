@@ -11,7 +11,6 @@ from constants import symbols
 OPENAI_API_KEY, DB_HOST, DB_NAME, DB_USERNAME, DB_PASSWORD, DB_PORT = get_env_vars('OPENAI_API_KEY', 'DB_HOST', 'DB_NAME', 'DB_USERNAME', 'DB_PASSWORD', 'DB_PORT')
 
 import wikipedia
-import yfinance as yf
 from llama_index import download_loader
 from llama_index import VectorStoreIndex, StorageContext, load_index_from_storage
 WikipediaReader = download_loader("WikipediaReader")
@@ -20,17 +19,12 @@ PERSIST_DIR = "./wiki_index"
 if not os.path.exists(PERSIST_DIR):
     wiki_pages = []
     for i in range(0, len(symbols)):
-    # for i in range(0, 10):
         ticker = yf.Ticker(symbols[i])
 
         if 'longName' in ticker.info:
             print(ticker.info["longName"])
             search_results = wikipedia.search(ticker.info["longName"])[0]
             wiki_pages.append(search_results)
-            # print(search_results)
-
-        # page = wikipedia.page(search_results, auto_suggest=False)
-        # print(page.content)
 
     loader = WikipediaReader()
     # auto_suggest allows wikipedia to change page search string

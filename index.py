@@ -61,13 +61,10 @@ chunk_size = 1024
 llm = OpenAI(temperature=0.1, model="gpt-4", streaming=True)
 service_context = ServiceContext.from_defaults(chunk_size=chunk_size, llm=llm)
 sql_database = SQLDatabase(sql_engine, include_tables=["companies"])
-table_details = {
-    "companies": "contains financial information and metadata for S&P 500 companies",
-}
 
 from llama_index.indices.struct_store.sql_query import NLSQLTableQueryEngine
 
-sql_engine = NLSQLTableQueryEngine(
+sql_query_engine = NLSQLTableQueryEngine(
     sql_database=sql_database,
     tables=["companies"],
 )
@@ -75,13 +72,13 @@ sql_engine = NLSQLTableQueryEngine(
 from wiki_search import wiki_query_engine
 
 sql_tool = QueryEngineTool.from_defaults(
-    query_engine=sql_engine,
+    query_engine=sql_query_engine,
     description=(
         "Useful for translating a natural language query into a SQL query over"
         " a table containing: companies, containing stats about S&P 500 companies."
     ),
 )
-s_engine_tool = QueryEngineTool.from_defaults(
+wiki_tool = QueryEngineTool.from_defaults(
     query_engine=wiki_query_engine,
     description=(
         f"Useful for answering qualitative questions about different S&P 500 companies."
@@ -89,7 +86,7 @@ s_engine_tool = QueryEngineTool.from_defaults(
 )
 
 query_engine = SQLJoinQueryEngine(
-    sql_tool, s_engine_tool, service_context=service_context
+    sql_tool, wiki_tool, service_context=service_context
 )
 
 query_str = input("What is your question? \n\n")
