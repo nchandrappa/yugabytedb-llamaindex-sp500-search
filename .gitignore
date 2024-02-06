@@ -1,0 +1,4 @@
+testenv
+__pycache__
+wiki_index
+yb-llamaindex-env/
