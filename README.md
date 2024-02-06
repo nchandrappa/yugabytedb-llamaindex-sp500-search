@@ -11,7 +11,7 @@ Download the application and provide settings specific to your deployment:
 1. Clone the repository.
 
     ```sh
-    git clone https://github.com/YugabyteDB-Samples/yugabytedb-llamaindex-sp500.git
+    git clone https://github.com/YugabyteDB-Samples/yugabytedb-llamaindex-sp500-search.git
     ```
 
 2. Install the application dependencies.
