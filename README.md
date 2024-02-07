@@ -83,18 +83,18 @@ This application requires a database table with financial information for compan
 
 1. Copy the schema to the first node's Docker container.
     ```sh
-    docker cp {project_dir}/sql/schema_simplified.sql yugabytedb-node1:/home
+    docker cp {project_dir}/sql/schema.sql yugabytedb-node1:/home
     ```   
 
 2. Copy the seed data file to the Docker container.
     ```sh
-    docker cp {project_dir}/sql/data_simplified.sql yugabytedb-node1:/home
+    docker cp {project_dir}/sql/data.sql yugabytedb-node1:/home
     ```
 
 3. Execute the SQL files against the database.
     ```sh
-     docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -c '\i /home/schema_simplified.sql'
-     docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -c '\i /home/data_simplified.sql'
+    docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -f /home/schema.sql
+    docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -f /home/data.sql
     ```
 
 # Start the Application
@@ -123,8 +123,8 @@ Provide a detailed company history for the company with the highest marketcap.
 Querying SQL database: The first choice seems more relevant as it mentions translating a natural language query into a SQL query over a table containing companies' stats. This could potentially include the company with the highest marketcap and provide a detailed history. The second choice is more about answering semantic questions, which doesn't necessarily imply detailed company history.
 
 SQL query: SELECT * 
-FROM companies_simplified 
-WHERE marketcap = (SELECT MAX(marketcap) FROM companies_simplified)
+FROM companies 
+WHERE marketcap = (SELECT MAX(marketcap) FROM companies)
 
 SQL response: The company with the highest marketcap is Microsoft Corporation. It was founded on April 4, 1975, and is headquartered at One Microsoft Way, Redmond, Washington, United States. Microsoft is a technology company that specializes in software infrastructure. It has a marketcap of $1,043,526,401,920 and employs 221,000 people. The company's contact number is 425-882-8080.
 
