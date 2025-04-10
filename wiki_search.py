@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import os
+import yfinance as yf
 # Load environment variables from .env file
 load_dotenv()
 
@@ -19,7 +20,13 @@ PERSIST_DIR = "./wiki_index"
 if not os.path.exists(PERSIST_DIR):
     wiki_pages = []
     for i in range(0, len(symbols)):
+        print(symbols[i])
         ticker = yf.Ticker(symbols[i])
+        try:
+            info = ticker.info  # Attempt to fetch the info
+        except Exception as e:
+            print(f"Error fetching info for {symbols[i]}: {e}")
+            continue  # Skip to the next symbol if there's an error
 
         if 'longName' in ticker.info:
             print(ticker.info["longName"])
