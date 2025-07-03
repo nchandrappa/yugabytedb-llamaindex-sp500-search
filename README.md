@@ -81,24 +81,26 @@ This application requires a database table with financial information for compan
 
 1. Copy the schema to the first node's Docker container.
     ```sh
-    docker cp {project_dir}/sql/schema.sql yugabytedb-node1:/home
+    docker cp {project_dir}/sql/schema_extended.sql ybnode1:/home
+    docker cp {project_dir}/sql/schema.sql ybnode1:/home
     ```   
 
 2. Copy the seed data file to the Docker container.
     ```sh
-    docker cp {project_dir}/sql/data.sql yugabytedb-node1:/home
+    docker cp {project_dir}/sql/data_extended.sql ybnode1:/home
+    docker cp {project_dir}/sql/data.sql ybnode1:/home
     ```
 
 3. Execute the SQL files against the database.
     ```sh
-    docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -f /home/schema_extended.sql
-    docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -f /home/schema.sql
-    docker exec -it yugabytedb-node1 bin/ysqlsh -h yugabytedb-node1 -f /home/data.sql
+    docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/schema_extended.sql
+    docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/schema.sql
+    docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/data.sql
     ```
 
 # Start the Application
 
-This command-line application takes an input in natural language and returns a response from LlamaIndex.
+This command-line application takes input in natural language and returns a response from LlamaIndex.
 
 1. Start the server.
 
