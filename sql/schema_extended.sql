@@ -1,8 +1,8 @@
 -- public.companies definition
 -- Drop table
--- DROP TABLE public.companies;
+-- DROP TABLE public.companies_extended;
 CREATE TABLE
-    public.companies (
+    public.companies_extended (
         address1 varchar NULL,
         city varchar NULL,
         state varchar NULL,

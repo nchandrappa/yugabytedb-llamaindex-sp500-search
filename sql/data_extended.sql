@@ -37,7 +37,7 @@ SET
 -- Data for Name: companies; Type: TABLE DATA; Schema: public; Owner: yugabyte
 --
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
