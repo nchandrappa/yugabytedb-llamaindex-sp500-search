@@ -23,16 +23,12 @@ Download the application and provide settings specific to your deployment:
         python3 -m venv yb-llamaindex-env
         source yb-llamaindex-env/bin/activate
         pip install -r requirements.txt
-        # NOTE: Users with M1 Mac machines should use requirements-m1.txt instead:
-        # pip install -r requirements-m1.txt
         ```
 
     * Option 2: Install Dependencies Globally
         ```sh
         pip install llama-index
-        pip install psycopg2
-        # NOTE: Users with M1 Mac machines should install the psycopg2 binary instead:
-        # pip install psycopg2-binary
+        pip install psycopg2-binary
         pip install python-dotenv
         ```
 3. Create an [OpenAI API Key](https://platform.openai.com/api-keys) and store it's value in a secure location. This will be used to connect the application to the LLM to generate SQL queries, infer results and generate the proper response.
@@ -95,6 +91,7 @@ This application requires a database table with financial information for compan
     ```sh
     docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/schema_extended.sql
     docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/schema.sql
+    docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/data_extended.sql
     docker exec -it ybnode1 bin/ysqlsh -h ybnode1 -f /home/data.sql
     ```
 

@@ -52,4 +52,4 @@ SELECT
     uuid,
     volume
 FROM
-    companies;
+    companies_extended;

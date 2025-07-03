@@ -75,12 +75,12 @@ if not os.path.exists(PERSIST_DIR):
         user=DB_USERNAME,
         table_name="snp_wiki_embeddings",
         embed_dim=1536,  # openai embedding dimension
-        hnsw_kwargs={
-            "hnsw_m": 16,
-            "hnsw_ef_construction": 64,
-            "hnsw_ef_search": 40,
-            "hnsw_dist_method": "vector_cosine_ops",
-        },
+        # hnsw_kwargs={
+        #     "hnsw_m": 16,
+        #     "hnsw_ef_construction": 64,
+        #     "hnsw_ef_search": 40,
+        #     "hnsw_dist_method": "vector_cosine_ops",
+        # },
     )
 
     storage_context_yugabytedb_vs = StorageContext.from_defaults(vector_store=vector_store)

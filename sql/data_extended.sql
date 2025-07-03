@@ -312,7 +312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -587,7 +587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -862,7 +862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -1412,7 +1412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -1687,7 +1687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -1962,7 +1962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -2237,7 +2237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -2512,7 +2512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -2787,7 +2787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -3062,7 +3062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -3337,7 +3337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -3612,7 +3612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -3887,7 +3887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -4162,7 +4162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -4437,7 +4437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -4712,7 +4712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -4987,7 +4987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -5262,7 +5262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -5537,7 +5537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -5812,7 +5812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -6087,7 +6087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -6362,7 +6362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -6637,7 +6637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -6912,7 +6912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -7187,7 +7187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -7462,7 +7462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -7737,7 +7737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -8012,7 +8012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -8287,7 +8287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -8562,7 +8562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -8837,7 +8837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -9112,7 +9112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -9387,7 +9387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -9662,7 +9662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -9937,7 +9937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -10212,7 +10212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -10487,7 +10487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -10762,7 +10762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -11037,7 +11037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -11312,7 +11312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -11587,7 +11587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -11862,7 +11862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -12137,7 +12137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -12412,7 +12412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -12687,7 +12687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -12962,7 +12962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -13237,7 +13237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -13512,7 +13512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -13787,7 +13787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -14062,7 +14062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -14337,7 +14337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -14612,7 +14612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -14887,7 +14887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -15162,7 +15162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -15437,7 +15437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -15712,7 +15712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -15987,7 +15987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -16262,7 +16262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -16537,7 +16537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -16812,7 +16812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -17087,7 +17087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -17362,7 +17362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -17637,7 +17637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -17912,7 +17912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -18187,7 +18187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -18338,7 +18338,7 @@ VALUES
         'Financial Services',
         'financial-services',
         'Financial Services',
-        'The Hartford Financial Services Group, Inc. provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. Its Commercial Lines segment offers insurance coverages, including workers'' compensation, property, automobile, general and professional liability, package business, umbrella, fidelity and surety, marine, livestock, and reinsurance through regional offices, branches, sales and policyholder service centers, independent retail agents and brokers, wholesale agents, and reinsurance brokers. The company''s Personal Lines segment provides automobile, homeowners, and personal umbrella coverages through direct-to-consumer channel and independent agents. Its Property & Casualty Other Operations segment offers coverage for asbestos and environmental exposures. The company''s Group Benefits segment provides group life, disability, and other group coverages to members of employer groups, associations, and affinity groups through direct insurance policies; reinsurance to other insurance companies; employer paid and voluntary product coverages; disability underwriting, administration, and claims processing to self-funded employer plans; and a single-company leave management solution. This segment distributes its group insurance products and services through brokers, consultants, third-party administrators, trade associations, and private exchanges. Its Hartford Funds segment offers managed mutual funds across various asset classes; and exchange-traded products through broker-dealer organizations, independent financial advisers, defined contribution plans, financial consultants, bank trust groups, and registered investment advisers, as well as investment management, distribution, and administrative services, such as product design, implementation, and oversight. The company was founded in 1810 and is headquartered in Hartford, Connecticut.',
+        'The Hartford Financial Services Group, Inc. provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. Its Commercial Lines segment offers insurance coverages, including workers'' compensation, property, automobile, general and professional liability, package business, umbrella, fidelity and surety, marine, livestock, and reinsurance through regional offices, branches, sales and policyholder service centers, independent retail agents and brokers, wholesale agents, and reinsurance brokers. The company''s Personal Lines segment provides automobile, homeowners, and personal umbrella coverages through direct-to-consumer channel and independent agents. Its Property & Casualty Other Operations segment offers coverage for asbestos and environmental exposures. The company''s Group Benefits segment provides group life, disability, and other group coverages to members of employer groups, associations, and affinity groups through direct insurance policies; reinsurance to other insurance companies_extended; employer paid and voluntary product coverages; disability underwriting, administration, and claims processing to self-funded employer plans; and a single-company leave management solution. This segment distributes its group insurance products and services through brokers, consultants, third-party administrators, trade associations, and private exchanges. Its Hartford Funds segment offers managed mutual funds across various asset classes; and exchange-traded products through broker-dealer organizations, independent financial advisers, defined contribution plans, financial consultants, bank trust groups, and registered investment advisers, as well as investment management, distribution, and administrative services, such as product design, implementation, and oversight. The company was founded in 1810 and is headquartered in Hartford, Connecticut.',
         '[{"age": 62, "name": "Mr. Christopher Jerome Swift CPA", "title": "Chairman & CEO", "maxAge": 1, "totalPay": 5932969, "yearBorn": 1961, "fiscalYear": 2022, "exercisedValue": 7099609, "unexercisedValue": 54941720}, {"age": 55, "name": "Ms. Beth A. Costello", "title": "Executive VP & CFO", "maxAge": 1, "totalPay": 2752600, "yearBorn": 1968, "fiscalYear": 2022, "exercisedValue": 1763589, "unexercisedValue": 11857657}, {"age": 53, "name": "Ms. Deepa  Soni", "title": "Executive VP, Head of Technology, Data, Analytics & Information Security and Chief Inf. Officer", "maxAge": 1, "totalPay": 1731400, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 161011}, {"age": 51, "name": "Mr. John J. Kinney", "title": "Executive VP and Head of Claims & Operations", "maxAge": 1, "yearBorn": 1972, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 54, "name": "Ms. Amy Marie Stepnowski", "title": "Executive VP & Chief Investment Officer", "maxAge": 1, "totalPay": 1846300, "yearBorn": 1969, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 43, "name": "Mr. Allison Gayle Niderno", "title": "Senior VP, Controller & Principal Accounting Officer", "maxAge": 1, "yearBorn": 1980, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Susan Spivak Bernstein", "title": "Senior Vice President of Investor Relations", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Donald C. Hunt", "title": "Senior VP & Corporate Secretary and General Counsel", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 54, "name": "Ms. Claire H. Burns", "title": "Chief Marketing & Communications Officer", "maxAge": 1, "yearBorn": 1969, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 53, "name": "Mr. Adin Morris Tooker", "title": "EVP, Middle and Large Commercial, Global Specialty and Sales & Distribution", "maxAge": 1, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         3,
         5,
@@ -18462,7 +18462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -18737,7 +18737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -19012,7 +19012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -19287,7 +19287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -19562,7 +19562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -19837,7 +19837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -20112,7 +20112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -20387,7 +20387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -20662,7 +20662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -20937,7 +20937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -21212,7 +21212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -21487,7 +21487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -21762,7 +21762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -22037,7 +22037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -22312,7 +22312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -22587,7 +22587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -22862,7 +22862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -23137,7 +23137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -23412,7 +23412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -23687,7 +23687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -23962,7 +23962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -24237,7 +24237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -24512,7 +24512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -24787,7 +24787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -25062,7 +25062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -25337,7 +25337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -25612,7 +25612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -25887,7 +25887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -26162,7 +26162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -26437,7 +26437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -26712,7 +26712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -26987,7 +26987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -27262,7 +27262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -27537,7 +27537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -27812,7 +27812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -28087,7 +28087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -28362,7 +28362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -28637,7 +28637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -28912,7 +28912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -29187,7 +29187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -29462,7 +29462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -29737,7 +29737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -30012,7 +30012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -30287,7 +30287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -30562,7 +30562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -30837,7 +30837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -31112,7 +31112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -31387,7 +31387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -31662,7 +31662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -31937,7 +31937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -32212,7 +32212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -32487,7 +32487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -32762,7 +32762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -33037,7 +33037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -33312,7 +33312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -33587,7 +33587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -33738,7 +33738,7 @@ VALUES
         'Consumer Cyclical',
         'consumer-cyclical',
         'Consumer Cyclical',
-        'Expedia Group, Inc. operates as an online travel company in the United States and internationally. The company operates through Retail, B2B, and trivago segments. Its brand portfolio includes Brand Expedia, a full-service online travel brand with localized websites; Hotels.com for marketing and distributing lodging accommodations; Vrbo, an online marketplace for the alternative accommodations; Orbitz; Travelocity; Wotif Group; CheapTickets; ebookers; Expedia; Hotwire; CarRentals.com; Classic Vacations; and Expedia Cruise. The company''s brand portfolio also comprises Expedia Partner Solutions, that offers private label and co-branded products through third-party websites; and Egencia that provides travel services to businesses and corporate customers. In addition, its brand portfolio consists of Trivago, a hotel metasearch website, which send referrals to online travel companies and travel service providers from hotel metasearch websites. Further, the company provides loyalty programs, hotel accommodations and alternative accommodations, and advertising and media services. It serves leisure and corporate travelers, that includes travel agencies, tour operators, travel supplier direct websites and call centers, consolidators and wholesalers of travel products and services, online portals and search websites, travel metasearch websites, mobile travel applications, and social media websites, as well as traditional consumer ecommerce and group buying websites. The company was formerly known as Expedia, Inc. and changed its name to Expedia Group, Inc. in March 2018. Expedia Group, Inc. was founded in 1996 and is headquartered in Seattle, Washington.',
+        'Expedia Group, Inc. operates as an online travel company in the United States and internationally. The company operates through Retail, B2B, and trivago segments. Its brand portfolio includes Brand Expedia, a full-service online travel brand with localized websites; Hotels.com for marketing and distributing lodging accommodations; Vrbo, an online marketplace for the alternative accommodations; Orbitz; Travelocity; Wotif Group; CheapTickets; ebookers; Expedia; Hotwire; CarRentals.com; Classic Vacations; and Expedia Cruise. The company''s brand portfolio also comprises Expedia Partner Solutions, that offers private label and co-branded products through third-party websites; and Egencia that provides travel services to businesses and corporate customers. In addition, its brand portfolio consists of Trivago, a hotel metasearch website, which send referrals to online travel companies_extended and travel service providers from hotel metasearch websites. Further, the company provides loyalty programs, hotel accommodations and alternative accommodations, and advertising and media services. It serves leisure and corporate travelers, that includes travel agencies, tour operators, travel supplier direct websites and call centers, consolidators and wholesalers of travel products and services, online portals and search websites, travel metasearch websites, mobile travel applications, and social media websites, as well as traditional consumer ecommerce and group buying websites. The company was formerly known as Expedia, Inc. and changed its name to Expedia Group, Inc. in March 2018. Expedia Group, Inc. was founded in 1996 and is headquartered in Seattle, Washington.',
         '[{"age": 81, "name": "Mr. Barry  Diller", "title": "Executive Chairman of the Board & Senior Executive", "maxAge": 1, "totalPay": 1213660, "yearBorn": 1942, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 55, "name": "Mr. Peter Maxwell Kern", "title": "Vice Chairman & CEO", "maxAge": 1, "totalPay": 1094473, "yearBorn": 1968, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 52, "name": "Ms. Julie P. Whalen", "title": "Executive VP, CFO & Director", "maxAge": 1, "totalPay": 1284665, "yearBorn": 1971, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 50, "name": "Mr. Lance A. Soliday", "title": "Senior VP, Chief Accounting Officer & Controller", "maxAge": 1, "totalPay": 449228, "yearBorn": 1973, "fiscalYear": 2022, "exercisedValue": 242404, "unexercisedValue": 0}, {"age": 52, "name": "Mr. Robert John Dzielak Esq., J.D.", "title": "Chief Legal Officer & Secretary", "maxAge": 1, "totalPay": 959151, "yearBorn": 1971, "fiscalYear": 2022, "exercisedValue": 8353496, "unexercisedValue": 0}, {"name": "Mr. Tucker  Moodey", "title": "President of Retail Product & Technology", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Sarah  Gavin", "title": "Senior Vice President of Global Communications & Corporate Brand", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Harshit  Vaish", "title": "SVP of Corporate Development, Strategy & Investor Relations", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Susanne  Svensson", "title": "Head Of Brand Marketing EMEA", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Michael Davis Velasco", "title": "Chief People, Inclusion & Diversity Officer", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         10,
         10,
@@ -33862,7 +33862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -34137,7 +34137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -34412,7 +34412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -34687,7 +34687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -34962,7 +34962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -35237,7 +35237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -35512,7 +35512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -35787,7 +35787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -36062,7 +36062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -36337,7 +36337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -36612,7 +36612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -36887,7 +36887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -37162,7 +37162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -37437,7 +37437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -37712,7 +37712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -37987,7 +37987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -38262,7 +38262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -38537,7 +38537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -38812,7 +38812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -39087,7 +39087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -39362,7 +39362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -39637,7 +39637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -39912,7 +39912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -40187,7 +40187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -40462,7 +40462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -40737,7 +40737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -41012,7 +41012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -41287,7 +41287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -41438,7 +41438,7 @@ VALUES
         'Consumer Cyclical',
         'consumer-cyclical',
         'Consumer Cyclical',
-        'Ford Motor Company develops, delivers, and services a range of Ford trucks, commercial cars and vans, sport utility vehicles, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, and Ford Pro; Ford Next; and Ford Credit segments. The company sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies, and governments. It also engages in vehicle-related financing and leasing activities to and through automotive dealers. In addition, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Further, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. The company was incorporated in 1903 and is based in Dearborn, Michigan.',
+        'Ford Motor Company develops, delivers, and services a range of Ford trucks, commercial cars and vans, sport utility vehicles, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, and Ford Pro; Ford Next; and Ford Credit segments. The company sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies_extended, and governments. It also engages in vehicle-related financing and leasing activities to and through automotive dealers. In addition, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Further, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. The company was incorporated in 1903 and is based in Dearborn, Michigan.',
         '[{"age": 66, "name": "Mr. William Clay Ford Jr.", "title": "Executive Chairman", "maxAge": 1, "totalPay": 4454794, "yearBorn": 1957, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 3773581}, {"age": 61, "name": "Mr. James D. Farley Jr.", "title": "President, CEO & Director", "maxAge": 1, "totalPay": 5850765, "yearBorn": 1962, "fiscalYear": 2022, "exercisedValue": 1869342, "unexercisedValue": 4878137}, {"age": 57, "name": "Mr. John T. Lawler", "title": "VP & CFO", "maxAge": 1, "totalPay": 2420308, "yearBorn": 1966, "fiscalYear": 2022, "exercisedValue": 81934, "unexercisedValue": 0}, {"age": 58, "name": "Mr. Ashwani Kumar Galhotra", "title": "Chief Operating Officer", "maxAge": 1, "totalPay": 2160312, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 170586, "unexercisedValue": 0}, {"age": 57, "name": "Mr. John Douglas Field", "title": "Chief Advanced Product Development & Technology Officer", "maxAge": 1, "totalPay": 970892, "yearBorn": 1966, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 60, "name": "Ms. Lynn Antipas Tyson", "title": "Executive Director of Investor Relations", "maxAge": 1, "yearBorn": 1963, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 57, "name": "Mr. Steven P. Croley", "title": "Chief Policy Officer & General Counsel", "maxAge": 1, "yearBorn": 1966, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Beth A. Rose", "title": "Chief Compliance, Ethics & Integrity Officer", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 53, "name": "Mr. Mark  Truby", "title": "Chief Communications Officer", "maxAge": 1, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Lisa  Materazzo", "title": "Global Chief Marketing Officer", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         9,
         8,
@@ -41562,7 +41562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -41837,7 +41837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -42112,7 +42112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -42387,7 +42387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -42662,7 +42662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -42937,7 +42937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -43212,7 +43212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -43487,7 +43487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -43762,7 +43762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -44037,7 +44037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -44312,7 +44312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -44587,7 +44587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -44862,7 +44862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -45137,7 +45137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -45412,7 +45412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -45687,7 +45687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -45962,7 +45962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -46237,7 +46237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -46512,7 +46512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -46787,7 +46787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -47062,7 +47062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -47337,7 +47337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -47612,7 +47612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -47887,7 +47887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -48162,7 +48162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -48437,7 +48437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -48712,7 +48712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -48987,7 +48987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -49262,7 +49262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -49537,7 +49537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -49812,7 +49812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -50087,7 +50087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -50362,7 +50362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -50637,7 +50637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -50912,7 +50912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -51187,7 +51187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -51462,7 +51462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -51613,7 +51613,7 @@ VALUES
         'Real Estate',
         'real-estate',
         'Real Estate',
-        'Camden Property Trust, an S&P 500 Company, is a real estate company primarily engaged in the ownership, management, development, redevelopment, acquisition, and construction of multifamily apartment communities. Camden owns and operates 172 properties containing 58,961 apartment homes across the United States. Upon completion of 5 properties currently under development, the Company''s portfolio will increase to 60,514 apartment homes in 177 properties. Camden has been recognized as one of the 100 Best Companies to Work For by FORTUNE magazine for 16 consecutive years, most recently ranking #33.',
+        'Camden Property Trust, an S&P 500 Company, is a real estate company primarily engaged in the ownership, management, development, redevelopment, acquisition, and construction of multifamily apartment communities. Camden owns and operates 172 properties containing 58,961 apartment homes across the United States. Upon completion of 5 properties currently under development, the Company''s portfolio will increase to 60,514 apartment homes in 177 properties. Camden has been recognized as one of the 100 Best companies_extended to Work For by FORTUNE magazine for 16 consecutive years, most recently ranking #33.',
         '[{"age": 68, "name": "Mr. Richard J. Campo", "title": "Chairman of the Board of Trust Managers & CEO", "maxAge": 1, "totalPay": 2948661, "yearBorn": 1955, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 66, "name": "Mr. D. Keith Oden", "title": "President & Executive Vice Chairman of the Board of Trust Managers", "maxAge": 1, "totalPay": 2948661, "yearBorn": 1957, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 49, "name": "Mr. Alexander J. K. Jessett", "title": "Executive VP, CFO & Assistant Secretary", "maxAge": 1, "totalPay": 1777185, "yearBorn": 1974, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 58, "name": "Ms. Laurie A. Baker", "title": "Executive VP & COO", "maxAge": 1, "totalPay": 1597841, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 64, "name": "Mr. William W. Sengelmann", "title": "Executive Vice President of Real Estate Investments", "maxAge": 1, "totalPay": 1297030, "yearBorn": 1959, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 54, "name": "Mr. Michael P. Gallagher", "title": "Senior VP & Chief Accounting Officer", "maxAge": 1, "yearBorn": 1969, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 56, "name": "Ms. Kristy P. Simonette", "title": "Senior VP of Strategic Services & Chief Information Officer", "maxAge": 1, "yearBorn": 1967, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 53, "name": "Ms. Kimberly A. Callahan", "title": "Senior Vice President of Investor Relations", "maxAge": 1, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Joshua L. Lebar", "title": "Senior VP, General Counsel & Secretary", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Julie  Keel", "title": "Vice President of Marketing", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         8,
         8,
@@ -51737,7 +51737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -52012,7 +52012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -52287,7 +52287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -52562,7 +52562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -52837,7 +52837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -53112,7 +53112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -53387,7 +53387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -53662,7 +53662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -53937,7 +53937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -54212,7 +54212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -54487,7 +54487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -54762,7 +54762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -55037,7 +55037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -55312,7 +55312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -55587,7 +55587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -55862,7 +55862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -56137,7 +56137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -56412,7 +56412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -56687,7 +56687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -56962,7 +56962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -57237,7 +57237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -57512,7 +57512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -57787,7 +57787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -58062,7 +58062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -58337,7 +58337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -58612,7 +58612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -58887,7 +58887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -59162,7 +59162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -59437,7 +59437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -59712,7 +59712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -59987,7 +59987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -60262,7 +60262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -60537,7 +60537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -60812,7 +60812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -61087,7 +61087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -61238,7 +61238,7 @@ VALUES
         'Financial Services',
         'financial-services',
         'Financial Services',
-        'BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks. It also provides global risk management and advisory services. The firm manages separate client-focused equity, fixed income, and balanced portfolios. It also launches and manages open-end and closed-end mutual funds, offshore funds, unit trusts, and alternative investment vehicles including structured funds. The firm launches equity, fixed income, balanced, and real estate mutual funds. It also launches equity, fixed income, balanced, currency, commodity, and multi-asset exchange traded funds. The firm also launches and manages hedge funds. It invests in the public equity, fixed income, real estate, currency, commodity, and alternative markets across the globe. The firm primarily invests in growth and value stocks of small-cap, mid-cap, SMID-cap, large-cap, and multi-cap companies. It also invests in dividend-paying equity securities. The firm invests in investment grade municipal securities, government securities including securities issued or guaranteed by a government or a government agency or instrumentality, corporate bonds, and asset-backed and mortgage-backed securities. It employs fundamental and quantitative analysis with a focus on bottom-up and top-down approach to make its investments. The firm employs liquidity, asset allocation, balanced, real estate, and alternative strategies to make its investments. In real estate sector, it seeks to invest in Poland and Germany. The firm benchmarks the performance of its portfolios against various S&P, Russell, Barclays, MSCI, Citigroup, and Merrill Lynch indices. BlackRock, Inc. was founded in 1988 and is based in New York City with additional offices in Boston, Massachusetts; London, United Kingdom; Gurgaon, India; Hong Kong; Greenwich, Connecticut; Princeton, New Jersey; Edinburgh, United Kingdom; Sydney, Australia; Taipei, Taiwan; Singapore; Sao Paulo, Brazil; Philadelphia, Pennsylvania; Washington, District of Columbia; Toronto, Canada; Wilmington, Delaware; and San Francisco, California.',
+        'BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies_extended, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks. It also provides global risk management and advisory services. The firm manages separate client-focused equity, fixed income, and balanced portfolios. It also launches and manages open-end and closed-end mutual funds, offshore funds, unit trusts, and alternative investment vehicles including structured funds. The firm launches equity, fixed income, balanced, and real estate mutual funds. It also launches equity, fixed income, balanced, currency, commodity, and multi-asset exchange traded funds. The firm also launches and manages hedge funds. It invests in the public equity, fixed income, real estate, currency, commodity, and alternative markets across the globe. The firm primarily invests in growth and value stocks of small-cap, mid-cap, SMID-cap, large-cap, and multi-cap companies. It also invests in dividend-paying equity securities. The firm invests in investment grade municipal securities, government securities including securities issued or guaranteed by a government or a government agency or instrumentality, corporate bonds, and asset-backed and mortgage-backed securities. It employs fundamental and quantitative analysis with a focus on bottom-up and top-down approach to make its investments. The firm employs liquidity, asset allocation, balanced, real estate, and alternative strategies to make its investments. In real estate sector, it seeks to invest in Poland and Germany. The firm benchmarks the performance of its portfolios against various S&P, Russell, Barclays, MSCI, Citigroup, and Merrill Lynch indices. BlackRock, Inc. was founded in 1988 and is based in New York City with additional offices in Boston, Massachusetts; London, United Kingdom; Gurgaon, India; Hong Kong; Greenwich, Connecticut; Princeton, New Jersey; Edinburgh, United Kingdom; Sydney, Australia; Taipei, Taiwan; Singapore; Sao Paulo, Brazil; Philadelphia, Pennsylvania; Washington, District of Columbia; Toronto, Canada; Wilmington, Delaware; and San Francisco, California.',
         '[{"age": 71, "name": "Mr. Laurence Douglas Fink", "title": "Chairman & CEO", "maxAge": 1, "totalPay": 9475555, "yearBorn": 1952, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 67, "name": "Mr. Robert Steven Kapito", "title": "President & Director", "maxAge": 1, "totalPay": 7133430, "yearBorn": 1956, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 49, "name": "Mr. Robert Lawrence Goldstein", "title": "Senior MD & COO", "maxAge": 1, "totalPay": 3104195, "yearBorn": 1974, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 7036193}, {"age": 56, "name": "Mr. J. Richard Kushel", "title": "Senior MD & Head of the Portfolio Management Group", "maxAge": 1, "totalPay": 2604195, "yearBorn": 1967, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 5277096}, {"age": 60, "name": "Mr. Gary Stephen Shedlin", "title": "Vice Chairman", "maxAge": 1, "totalPay": 2214794, "yearBorn": 1963, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 5277096}, {"age": 65, "name": "Dr. Bennett W. Golub Ph.D.", "title": "Co-Founder", "maxAge": 1, "yearBorn": 1958, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Mark  McKenna", "title": "Founder, MD, Global Head of Event Driven Equity Strategies & Portfolio Manager", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Martin  Small", "title": "Senior MD, CFO & Global Head of Corporate Strategy", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Dr. Jeff  Shen Ph.D.", "title": "MD, Co-CIO & Co-Head of Systematic Active Equity (SAE)", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Neeraj  Seth", "title": "MD, Chief Investment Officer & Head of Asian credit  Singapore", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         6,
         7,
@@ -61362,7 +61362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -61637,7 +61637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -61912,7 +61912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -62187,7 +62187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -62462,7 +62462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -62737,7 +62737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -63012,7 +63012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -63287,7 +63287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -63562,7 +63562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -63837,7 +63837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -64112,7 +64112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -64387,7 +64387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -64662,7 +64662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -64937,7 +64937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -65212,7 +65212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -65487,7 +65487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -65762,7 +65762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -66037,7 +66037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -66312,7 +66312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -66587,7 +66587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -66862,7 +66862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -67137,7 +67137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -67412,7 +67412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -67687,7 +67687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -67962,7 +67962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -68237,7 +68237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -68512,7 +68512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -68787,7 +68787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -69062,7 +69062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -69337,7 +69337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -69612,7 +69612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -69887,7 +69887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -70162,7 +70162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -70437,7 +70437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -70712,7 +70712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -70987,7 +70987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -71262,7 +71262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -71537,7 +71537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -71812,7 +71812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -72087,7 +72087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -72362,7 +72362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -72637,7 +72637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -72912,7 +72912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -73187,7 +73187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -73462,7 +73462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -73737,7 +73737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -74012,7 +74012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -74287,7 +74287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -74562,7 +74562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -74837,7 +74837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -75112,7 +75112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -75387,7 +75387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -75662,7 +75662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -75937,7 +75937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -76212,7 +76212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -76487,7 +76487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -76762,7 +76762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -77037,7 +77037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -77312,7 +77312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -77587,7 +77587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -77862,7 +77862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -78137,7 +78137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -78412,7 +78412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -78687,7 +78687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -78962,7 +78962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -79237,7 +79237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -79512,7 +79512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -79787,7 +79787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -80062,7 +80062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -80337,7 +80337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -80612,7 +80612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -80887,7 +80887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -81162,7 +81162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -81437,7 +81437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -81712,7 +81712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -81987,7 +81987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -82262,7 +82262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -82537,7 +82537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -82812,7 +82812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -83087,7 +83087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -83362,7 +83362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -83637,7 +83637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -83912,7 +83912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -84187,7 +84187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -84462,7 +84462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -84737,7 +84737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -85012,7 +85012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -85287,7 +85287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -85562,7 +85562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -85837,7 +85837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -86112,7 +86112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -86387,7 +86387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -86662,7 +86662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -86937,7 +86937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -87212,7 +87212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -87487,7 +87487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -87762,7 +87762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -88037,7 +88037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -88312,7 +88312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -88587,7 +88587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -88862,7 +88862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -89137,7 +89137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -89412,7 +89412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -89687,7 +89687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -89962,7 +89962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -90237,7 +90237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -90512,7 +90512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -90787,7 +90787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -91062,7 +91062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -91337,7 +91337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -91612,7 +91612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -91887,7 +91887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -92162,7 +92162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -92437,7 +92437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -92712,7 +92712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -92987,7 +92987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -93262,7 +93262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -93537,7 +93537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -93812,7 +93812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -94087,7 +94087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -94362,7 +94362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -94637,7 +94637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -94912,7 +94912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -95187,7 +95187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -95462,7 +95462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -95737,7 +95737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -96012,7 +96012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -96287,7 +96287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -96562,7 +96562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -96837,7 +96837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -97112,7 +97112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -97387,7 +97387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -97662,7 +97662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -97937,7 +97937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -98212,7 +98212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -98487,7 +98487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -98762,7 +98762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -99037,7 +99037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -99188,7 +99188,7 @@ VALUES
         'Healthcare',
         'healthcare',
         'Healthcare',
-        'Revvity, Inc. provides products, services, and solutions to the diagnostics, life sciences, and applied services markets worldwide. It operates through two segments, Discovery & Analytical Solutions and Diagnostics. The Discovery & Analytical Solutions segment provides instruments, reagents, informatics, software, subscriptions, detection, and imaging technologies that enable scientists to enhance research breakthroughs in the life sciences research market, as well as contract research and laboratory services. It also provides analytical technologies, solutions, and services for its customers to understand the characterize the health of various aspects, including air, water, and soil. In addition, this segment offers solutions to farmers and food producers; and analytical instrumentation for the industrial market, which includes the chemical, semiconductor and electronics, energy, lubricant, petrochemical, and polymer industries. The Diagnostics segment provides instruments, reagents, assay platforms, and software products for the early detection of genetic disorders, such as pregnancy and early childhood, as well as infectious disease testing in the diagnostics market. Its products are used for testing and screening genetic abnormalities, disorders, and diseases, including down syndrome, hypothyroidism, muscular dystrophy, infertility, and various metabolic conditions. This segment also develops technologies that enable and support genomic workflows using protein coupled receptor and next-generation DNA sequencing for applications in oncology, immunodiagnostics, and drug discovery. It serves pharmaceutical and biotechnology companies, laboratories, academic and research institutions, public health authorities, private healthcare organizations, doctors, and government agencies. The company was formerly known as PerkinElmer, Inc. and changed its name to Revvity, Inc. in April 2023. Revvity, Inc. was founded in 1937 and is headquartered in Waltham, Massachusetts.',
+        'Revvity, Inc. provides products, services, and solutions to the diagnostics, life sciences, and applied services markets worldwide. It operates through two segments, Discovery & Analytical Solutions and Diagnostics. The Discovery & Analytical Solutions segment provides instruments, reagents, informatics, software, subscriptions, detection, and imaging technologies that enable scientists to enhance research breakthroughs in the life sciences research market, as well as contract research and laboratory services. It also provides analytical technologies, solutions, and services for its customers to understand the characterize the health of various aspects, including air, water, and soil. In addition, this segment offers solutions to farmers and food producers; and analytical instrumentation for the industrial market, which includes the chemical, semiconductor and electronics, energy, lubricant, petrochemical, and polymer industries. The Diagnostics segment provides instruments, reagents, assay platforms, and software products for the early detection of genetic disorders, such as pregnancy and early childhood, as well as infectious disease testing in the diagnostics market. Its products are used for testing and screening genetic abnormalities, disorders, and diseases, including down syndrome, hypothyroidism, muscular dystrophy, infertility, and various metabolic conditions. This segment also develops technologies that enable and support genomic workflows using protein coupled receptor and next-generation DNA sequencing for applications in oncology, immunodiagnostics, and drug discovery. It serves pharmaceutical and biotechnology companies_extended, laboratories, academic and research institutions, public health authorities, private healthcare organizations, doctors, and government agencies. The company was formerly known as PerkinElmer, Inc. and changed its name to Revvity, Inc. in April 2023. Revvity, Inc. was founded in 1937 and is headquartered in Waltham, Massachusetts.',
         '[{"age": 58, "name": "Dr. Prahlad R. Singh Ph.D.", "title": "CEO, President & Director", "maxAge": 1, "totalPay": 3228072, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 1298742, "unexercisedValue": 6426368}, {"age": 33, "name": "Mr. Maxwell  Krakowiak", "title": "Senior VP & CFO", "maxAge": 1, "totalPay": 814584, "yearBorn": 1990, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 6682}, {"age": 57, "name": "Mr. Tajinder  Vohra", "title": "Senior Vice President of Global Operations", "maxAge": 1, "totalPay": 927241, "yearBorn": 1966, "fiscalYear": 2022, "exercisedValue": 605257, "unexercisedValue": 1491747}, {"age": 54, "name": "Mr. Joel S. Goldberg", "title": "Senior VP of Administration, General Counsel & Secretary", "maxAge": 1, "totalPay": 1285818, "yearBorn": 1969, "fiscalYear": 2022, "exercisedValue": 3485036, "unexercisedValue": 3878178}, {"age": 55, "name": "Mr. Daniel R. Tereau", "title": "Senior Vice President of Strategy & Business Development", "maxAge": 1, "totalPay": 967973, "yearBorn": 1968, "fiscalYear": 2022, "exercisedValue": 1357738, "unexercisedValue": 774439}, {"age": 53, "name": "Mr. Andrew  Okun", "title": "VP, Chief Accounting Officer & Treasurer", "maxAge": 1, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Arvind  Sundar-Rajan", "title": "Vice President of Digital & Technology", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Madhuri  Hegde FACMG, Ph.D.", "title": "Senior VP & Chief Scientific Officer", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Jayashree  Thacker", "title": "Senior VP & Global Chief Information Officer", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Stephen Barr Willoughby", "title": "Senior VP of Investor Relations & Head of ESG", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         10,
         4,
@@ -99312,7 +99312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -99587,7 +99587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -99862,7 +99862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -100137,7 +100137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -100412,7 +100412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -100687,7 +100687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -100962,7 +100962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -101237,7 +101237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -101512,7 +101512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -101787,7 +101787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -102062,7 +102062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -102337,7 +102337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -102612,7 +102612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -102887,7 +102887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -103162,7 +103162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -103437,7 +103437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -103712,7 +103712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -103987,7 +103987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -104262,7 +104262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -104537,7 +104537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -104812,7 +104812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -105087,7 +105087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -105362,7 +105362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -105637,7 +105637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -105912,7 +105912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -106187,7 +106187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -106462,7 +106462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -106737,7 +106737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -107012,7 +107012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -107287,7 +107287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -107562,7 +107562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -107837,7 +107837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -108112,7 +108112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -108387,7 +108387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -108662,7 +108662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -108937,7 +108937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -109212,7 +109212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -109487,7 +109487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -109762,7 +109762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -110037,7 +110037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -110312,7 +110312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -110587,7 +110587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -110862,7 +110862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -111137,7 +111137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -111412,7 +111412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -111687,7 +111687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -111962,7 +111962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -112237,7 +112237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -112512,7 +112512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -112787,7 +112787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -113062,7 +113062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -113337,7 +113337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -113612,7 +113612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -113887,7 +113887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -114162,7 +114162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -114437,7 +114437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -114712,7 +114712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -114987,7 +114987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -115262,7 +115262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -115537,7 +115537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -115812,7 +115812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -116087,7 +116087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -116238,7 +116238,7 @@ VALUES
         'Consumer Defensive',
         'consumer-defensive',
         'Consumer Defensive',
-        'Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock. It also manufactures and markets frozen and refrigerated food products, including ready-to-eat sandwiches, flame-grilled hamburgers, Philly steaks, pepperoni, bacon, breakfast sausage, turkey, lunchmeat, hot dogs, flour and corn tortilla products, appetizers, snacks, prepared meals, ethnic foods, side dishes, meat dishes, breadsticks, and processed meats under the Tyson, Jimmy Dean, Hillshire Farm, Ball Park, Wright, Aidells, ibp, and State Fair brands. The company sells its products through its sales staff to grocery retailers, grocery wholesalers, meat distributors, warehouse club stores, military commissaries, industrial food processing companies, chain restaurants or their distributors, live markets, international export companies, and domestic distributors who serve restaurants and food service operations, such as plant and school cafeterias, convenience stores, hospitals, and other vendors, as well as through independent brokers and trading companies. The company was founded in 1935 and is headquartered in Springdale, Arkansas.',
+        'Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock. It also manufactures and markets frozen and refrigerated food products, including ready-to-eat sandwiches, flame-grilled hamburgers, Philly steaks, pepperoni, bacon, breakfast sausage, turkey, lunchmeat, hot dogs, flour and corn tortilla products, appetizers, snacks, prepared meals, ethnic foods, side dishes, meat dishes, breadsticks, and processed meats under the Tyson, Jimmy Dean, Hillshire Farm, Ball Park, Wright, Aidells, ibp, and State Fair brands. The company sells its products through its sales staff to grocery retailers, grocery wholesalers, meat distributors, warehouse club stores, military commissaries, industrial food processing companies_extended, chain restaurants or their distributors, live markets, international export companies, and domestic distributors who serve restaurants and food service operations, such as plant and school cafeterias, convenience stores, hospitals, and other vendors, as well as through independent brokers and trading companies. The company was founded in 1935 and is headquartered in Springdale, Arkansas.',
         '[{"age": 61, "name": "Mr. Donnie D. King", "title": "President, CEO & Director", "maxAge": 1, "totalPay": 2236775, "yearBorn": 1962, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 65, "name": "Mr. Noel  White", "title": "Executive Vice Chairman", "maxAge": 1, "totalPay": 1246219, "yearBorn": 1958, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 33, "name": "Mr. John R. Tyson", "title": "Executive VP & CFO", "maxAge": 1, "totalPay": 897620, "yearBorn": 1990, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 44, "name": "Mr. Brady  Stewart", "title": "Group President, Beef, Pork & Chief Supply Chain Officer", "maxAge": 1, "totalPay": 2359281, "yearBorn": 1979, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 62, "name": "Ms. Lori J. Bondar", "title": "Senior VP & Chief Accounting Officer", "maxAge": 1, "yearBorn": 1961, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Doug  Kulka", "title": "Chief Information & Technology Officer", "maxAge": 1, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 55, "name": "Ms. Amy  Tu", "title": "President of Intl, Chief Admin. Officer and EVP of Global Gov & Corp Affairs", "maxAge": 1, "totalPay": 2295524, "yearBorn": 1968, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 274194}, {"name": "Mr. Sean T. Cornett", "title": "Vice President of Investor Relations", "maxAge": 1, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 47, "name": "Mr. Adam  Deckinger", "title": "General Counsel & Secretary", "maxAge": 1, "yearBorn": 1976, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 52, "name": "Ms. Johanna  Soderstrom", "title": "Executive VP & Chief People Officer", "maxAge": 1, "yearBorn": 1971, "fiscalYear": 2023, "exercisedValue": 0, "unexercisedValue": 0}]',
         10,
         10,
@@ -116362,7 +116362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -116637,7 +116637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -116912,7 +116912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -117187,7 +117187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -117462,7 +117462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -117613,7 +117613,7 @@ VALUES
         'Consumer Cyclical',
         'consumer-cyclical',
         'Consumer Cyclical',
-        'Lowe''s Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. It also provides home improvement products, such as appliances, seasonal and outdoor living, lawn and garden, lumber, kitchens and bath, tools, paint, millwork, hardware, flooring, rough plumbing, building materials, décor, and electrical. In addition, the company offers installation services through independent contractors in various product categories; and extended protection plans and repair services. It sells its national brand-name merchandise and private brand products to professional customers, homeowners, and renters. The company also sells its products through Lowes.com website; and through mobile applications. Lowe''s Companies, Inc. was founded in 1921 and is based in Mooresville, North Carolina.',
+        'Lowe''s companies_extended, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. It also provides home improvement products, such as appliances, seasonal and outdoor living, lawn and garden, lumber, kitchens and bath, tools, paint, millwork, hardware, flooring, rough plumbing, building materials, décor, and electrical. In addition, the company offers installation services through independent contractors in various product categories; and extended protection plans and repair services. It sells its national brand-name merchandise and private brand products to professional customers, homeowners, and renters. The company also sells its products through Lowes.com website; and through mobile applications. Lowe''s Companies, Inc. was founded in 1921 and is based in Mooresville, North Carolina.',
         '[{"age": 58, "name": "Mr. Marvin R. Ellison", "title": "President, CEO & Chairman", "maxAge": 1, "totalPay": 5199751, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 40228280}, {"age": 47, "name": "Mr. Brandon J. Sink", "title": "Executive VP & CFO", "maxAge": 1, "totalPay": 1460606, "yearBorn": 1976, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 741067}, {"age": 53, "name": "Ms. Seemantini  Godbole", "title": "Executive VP and Chief Information & Digital Officer", "maxAge": 1, "totalPay": 1795231, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 5496983}, {"age": 60, "name": "Mr. William P. Boltz", "title": "Executive Vice President of Merchandising", "maxAge": 1, "totalPay": 1934980, "yearBorn": 1963, "fiscalYear": 2022, "exercisedValue": 9377109, "unexercisedValue": 126726}, {"age": 53, "name": "Mr. Joseph Michael McFarland III", "title": "Executive Vice President of Stores", "maxAge": 1, "totalPay": 1930194, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 11623030}, {"age": 45, "name": "Mr. Dan Clayton Griggs Jr.", "title": "Senior VP of Tax & Chief Accounting Officer", "maxAge": 1, "yearBorn": 1978, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Kate  Pearlman", "title": "Vice President of Investor Relations", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Mr. Jeff R. Vining", "title": "Senior VP, Chief Compliance Officer & Deputy General Counsel", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 58, "name": "Ms. Juliette Williams Pryor", "title": "Executive VP, Chief Legal Officer & Corporate Secretary", "maxAge": 1, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 58, "name": "Ms. Janice M. Dupre", "title": "Executive Vice President of Human Resources", "maxAge": 1, "yearBorn": 1965, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         5,
         5,
@@ -117737,7 +117737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -118012,7 +118012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -118287,7 +118287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -118562,7 +118562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -118837,7 +118837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -119112,7 +119112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -119387,7 +119387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -119662,7 +119662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -119937,7 +119937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -120212,7 +120212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -120487,7 +120487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -120762,7 +120762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -121037,7 +121037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -121312,7 +121312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -121587,7 +121587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -121862,7 +121862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -122137,7 +122137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -122412,7 +122412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -122687,7 +122687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -122962,7 +122962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -123237,7 +123237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -123512,7 +123512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -123787,7 +123787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -124062,7 +124062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -124213,7 +124213,7 @@ VALUES
         'Technology',
         'technology',
         'Technology',
-        'Paycom Software, Inc. provides cloud-based human capital management (HCM) solution delivered as software-as-a-service for small to mid-sized companies in the United States. It offers functionality and data analytics that businesses need to manage the employment life cycle from recruitment to retirement. The company''s HCM solution provides a suite of applications in the areas of talent acquisition, including applicant tracking, candidate tracker, background checks, on-boarding, e-verify, and tax credit services; and time and labor management, such as time and attendance, scheduling/schedule exchange, time-off requests, labor allocation, labor management reports/push reporting, geofencing/geotracking, and Microfence, a proprietary Bluetooth. Its HCM solution also offers payroll applications comprising better employee transaction interface, payroll and tax management, payroll card, Paycom pay, expense management, mileage tracker/fixed and variable rates, garnishment management, and GL concierge applications; and talent management applications that include employee self-service, compensation budgeting, performance management, position management, and Paycom learning and content subscriptions, as well as my analytics, which offer employment predictor reporting. In addition, its HCM solution provides manager on-the-go that gives supervisors and managers the ability to perform a variety of tasks, such as approving time-off requests and expense reimbursements; direct data exchange; ask here, a tool for direct line of communication to ask work-related questions; document and checklist; government and compliance; benefits administration/benefits to carrier; COBRA administration; personnel action and performance discussion forms; surveys; and affordable care act applications, as well as Clue, which securely collect, track, and manage the vaccination and testing data of the workforce. Paycom Software, Inc. was founded in 1998 and is headquartered in Oklahoma City, Oklahoma.',
+        'Paycom Software, Inc. provides cloud-based human capital management (HCM) solution delivered as software-as-a-service for small to mid-sized companies_extended in the United States. It offers functionality and data analytics that businesses need to manage the employment life cycle from recruitment to retirement. The company''s HCM solution provides a suite of applications in the areas of talent acquisition, including applicant tracking, candidate tracker, background checks, on-boarding, e-verify, and tax credit services; and time and labor management, such as time and attendance, scheduling/schedule exchange, time-off requests, labor allocation, labor management reports/push reporting, geofencing/geotracking, and Microfence, a proprietary Bluetooth. Its HCM solution also offers payroll applications comprising better employee transaction interface, payroll and tax management, payroll card, Paycom pay, expense management, mileage tracker/fixed and variable rates, garnishment management, and GL concierge applications; and talent management applications that include employee self-service, compensation budgeting, performance management, position management, and Paycom learning and content subscriptions, as well as my analytics, which offer employment predictor reporting. In addition, its HCM solution provides manager on-the-go that gives supervisors and managers the ability to perform a variety of tasks, such as approving time-off requests and expense reimbursements; direct data exchange; ask here, a tool for direct line of communication to ask work-related questions; document and checklist; government and compliance; benefits administration/benefits to carrier; COBRA administration; personnel action and performance discussion forms; surveys; and affordable care act applications, as well as Clue, which securely collect, track, and manage the vaccination and testing data of the workforce. Paycom Software, Inc. was founded in 1998 and is headquartered in Oklahoma City, Oklahoma.',
         '[{"age": 53, "name": "Mr. Chad R. Richison", "title": "Founder, President, CEO & Chairman of the Board", "maxAge": 1, "totalPay": 3138418, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 60, "name": "Mr. Craig E. Boelte", "title": "CFO, Treasurer & Corporate Secretary", "maxAge": 1, "totalPay": 1504608, "yearBorn": 1963, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 52, "name": "Mr. Bradley Scott Smith", "title": "Chief Information Officer", "maxAge": 1, "totalPay": 970498, "yearBorn": 1971, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 53, "name": "Mr. Jason Dean Clark", "title": "Chief Administrative Officer", "maxAge": 1, "totalPay": 95000, "yearBorn": 1970, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 38, "name": "Ms. Holly  Faurot", "title": "Chief Sales Officer", "maxAge": 1, "totalPay": 1414633, "yearBorn": 1985, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"age": 45, "name": "Mr. Chris  Thomas", "title": "Chief Operating Officer", "maxAge": 1, "yearBorn": 1978, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "James  Samford", "title": "Head of Investor Relations", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Matthew  Paque", "title": "General Counsel", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}, {"name": "Ms. Tiffany  McGowen", "title": "Director of Recruiting", "maxAge": 1, "fiscalYear": 2022, "exercisedValue": 0, "unexercisedValue": 0}]',
         5,
         10,
@@ -124337,7 +124337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -124612,7 +124612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -124887,7 +124887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -125162,7 +125162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -125437,7 +125437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -125712,7 +125712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -125987,7 +125987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -126262,7 +126262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -126537,7 +126537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -126812,7 +126812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -127087,7 +127087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -127362,7 +127362,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -127637,7 +127637,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -127912,7 +127912,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -128187,7 +128187,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -128462,7 +128462,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -128737,7 +128737,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -129012,7 +129012,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -129287,7 +129287,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -129562,7 +129562,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -129837,7 +129837,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -130112,7 +130112,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -130387,7 +130387,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -130662,7 +130662,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -130937,7 +130937,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -131212,7 +131212,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -131487,7 +131487,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -131762,7 +131762,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -132037,7 +132037,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -132312,7 +132312,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -132587,7 +132587,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -132862,7 +132862,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -133137,7 +133137,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -133412,7 +133412,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -133687,7 +133687,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -133962,7 +133962,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -134237,7 +134237,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -134512,7 +134512,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -134787,7 +134787,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -135062,7 +135062,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -135337,7 +135337,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -135612,7 +135612,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -135887,7 +135887,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -136162,7 +136162,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -136437,7 +136437,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -136712,7 +136712,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -136987,7 +136987,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -137262,7 +137262,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -137537,7 +137537,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -137812,7 +137812,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
@@ -138087,7 +138087,7 @@ VALUES
     );
 
 INSERT INTO
-    public.companies (
+    public.companies_extended (
         address1,
         city,
         state,
