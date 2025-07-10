@@ -2,7 +2,7 @@
 This is a sample application written in Python that demonstrates how use LlamaIndex to build RAG (Retrieval-Augmented Generation) applications. By using the LlamaIndex [SQLJoinQueryEngine](https://docs.llamaindex.ai/en/stable/examples/query_engine/SQLJoinQueryEngine.html), the application can query a [PostgreSQL-compatible](https://www.yugabyte.com/postgresql/postgresql-compatibility/) YugabyteDB database from natural language. It can then infer whether to query a secondary vector index to fetch documents. In this case, the secondary index contains the Wikipedia pages of S&P 500 companies.
 
 # Prerequisites
-* Install Python3
+* Install Python 3.11 or Later Version
 * Install Docker
 
 ## Set up the application
